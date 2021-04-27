@@ -1,0 +1,34 @@
+.navigation {
+    padding-top: 2px;
+    padding-left: 2px;
+    padding-bottom: 2px;
+    color: rgb(255, 255, 255);
+    background-color: #1b445f98;
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+    font-weight: unset;
+    margin-bottom: 10px;
+    float: left;
+}
+.navigation__list {
+    list-style: none;
+    padding-left: 0;
+}
+.navigation__link {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 200;
+    padding: 5px 5px;
+    margin: 15px;
+}
+
+
+.navigation__link:hover {
+    color: yellow;
+    border-bottom: 2px outline none;
+}
+
+.navigation__link:active {
+    color: black;
+}

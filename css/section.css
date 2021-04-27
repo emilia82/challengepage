@@ -1,0 +1,25 @@
+.section__paragraph {
+    color: black;
+    background-color: rgb(193, 214, 231);
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+    line-height: 1, 5;
+    padding: 15px;
+}
+
+.section__image {
+    width: 100%;
+    max-width: 400%;
+    margin: auto;
+    text-align: center;
+}
+
+.section__header {
+    color: black;
+    background-color: #efec9f24;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    text-align: center;
+}
+
