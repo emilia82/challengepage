@@ -1,4 +1,4 @@
-# Emilia Warakomska - strona demo wyzwania
+# Emilia Warakomska - challenge demo page
 
 ![Trening Wygrywania](https://github.com/emilia82/mojastrona/blob/main/images/TreningWygrywania.png?raw=true)
 
@@ -7,6 +7,21 @@
 https://emilia82.github.io/mojastrona/
 
 ## Opis 
+
+Sample Landing Page with an invitation to a fitness challenge.
+This project uses an HTML script and CSS in the BEM convention, and
+also basic javascript functions. At the top of the page, there is a
+button that can change the background of the page from orange to white.
+
+The website has basic sections with 3 simple paragraphs and basic ones
+information about the project - challenges and call for action. 
+
+Links in the navigation make it easier to go to the individual sections.
+
+A table with superhero movies has also been added to the website.
+These videos will be a task to be performed by the audience of the challenge.
+
+polish version:
 
 Przykładowa strona wizytówkowa z zaproszeniem na wyzwanie fitness. 
 W projekcie został użyty skrypt HTML, oraz CSS w konwencji BEM, a 
