@@ -42,7 +42,7 @@
 }
 
 
-.changeColourButton {
+.changeBackgroundColourButton {
     border: none;
 
     display: flex;
@@ -54,11 +54,11 @@
     transition: 0.4s;
 }
 
-.changeColourButton:hover {
+.changeBackgroundColourButton:hover {
     background-color: hsl(356, 100%, 35%);
 }
 
-.changeColourButton:active {
+.changeBackgroundColourButton:active {
     background-color: hsl(356, 100%, 45%);
 }
 
