@@ -22,17 +22,10 @@ html {
     text-align: center;
 }
 
-.newBackground {
-    background-color: #ffffff;
+.newBackgroundColour {
+    background-color: olivedrab;
 }
 
-.changeBackgroundButton {
-    color: black;
-    background-color: #1b445f98;
-    font-family: "Anton", sans-serif;
-    font-size: 20px;
-    padding: 10px;
-}
 
 
 .footer {
