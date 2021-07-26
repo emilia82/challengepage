@@ -1,11 +1,9 @@
 .navigation {
-    padding-top: 2px;
-    padding-left: 2px;
-    padding-bottom: 2px;
+    padding: 2px, 2px, 2px, 2px;
     color: rgb(255, 255, 255);
-    background-color: #1b445f98;
+    background-color: #1b445f;
     font-family: "Open Sans", sans-serif;
-    font-size: 15px;
+    font-size: 18px;
     font-weight: unset;
     margin-bottom: 10px;
     float: left;
