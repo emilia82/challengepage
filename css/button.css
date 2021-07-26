@@ -2,10 +2,10 @@
     border: none;
     border-radius: 20px;
     display: flex;
-    padding: 25px;
+    padding: 35px;
     background-color: #f90011;
     color: white;
-    font-size: 20px;
+    font-size: 25px;
     font-family: "Open Sans", sans-serif;
     margin-left: auto;
     margin-right: auto;
@@ -21,3 +21,45 @@
 .button:active {
     background-color: hsl(204, 56%, 44%);
 }
+
+.hideTableButton {
+    border: none;
+
+    display: flex;
+    padding: 25px;
+    background-color: #1b445f;
+    color: white;
+    font-size: 20px;
+    font-family: "Anton", sans-serif;
+    transition: 0.4s;
+}
+.hideTableButton:hover {
+    background-color: hsl(356, 100%, 35%);
+}
+
+.hideTableButton:active {
+    background-color: hsl(356, 100%, 45%);
+}
+
+
+.changeColourButton {
+    border: none;
+
+    display: flex;
+    padding: 25px;
+    background-color: #1b445f;
+    color: white;
+    font-size: 20px;
+    font-family: "Anton", sans-serif;
+    transition: 0.4s;
+}
+
+.changeColourButton:hover {
+    background-color: hsl(356, 100%, 35%);
+}
+
+.changeColourButton:active {
+    background-color: hsl(356, 100%, 45%);
+}
+
+
