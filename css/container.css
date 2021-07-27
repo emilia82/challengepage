@@ -1,6 +1,6 @@
 .container {
     max-width: 1240px;
-    background-color: #faf7f6;
+    background-color: white;
     padding: 0 20px;
     margin: 0 auto;
     display: grid;
@@ -23,4 +23,10 @@
       width: 800px;
     }
   }
+
+  
+.newBackgroundColour {
+  background-color: olivedrab;
+}
+
 
