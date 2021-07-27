@@ -1,14 +1,55 @@
 # Emilia Warakomska - challenge demo page
 
-![Trening Wygrywania](https://github.com/emilia82/mojastrona/blob/main/images/TreningWygrywania.png?raw=true)
+![Trening Wygrywania](https://github.com/emilia82/challengepage/blob/main/images/TreningWygrywania.png?raw=true)
 
 ## Demo
 
-
 https://emilia82.github.io/challengepage/
 
-## Opis 
+## Used Technologies:
 
+- HTML5
+- CSS/BEM
+- JavaScript/ECM6
+
+## Description
+
+Simple, minimalistic offer-page site with interactions:
+
+- navigation with links to sections about offer, 
+- 5 sections with tekst, header and icons or images,
+- 1 section contains table with callendar,
+- 3 buttons with interactions in javascript 
+- 1 photo with interaction in js
+- footer with copyrights, 
+
+## How to use it 
+
+## 1. This site document contains: navigation (with interactions), 3 buttons with interactions, 2 photos, icons, 1 section with table with callendar, 5 sections with text and footer
+
+
+![allSite](https://github.com/emilia82/homepage/blob/main/image/1-All-web.gif?raw=true)
+
+
+## 2. First interaction - from navigation to sections
+- on hovering the mouse over, the link changes color,
+when clicked - changes color and refers to the section
+
+![linkInteraction](https://github.com/emilia82/challengepage/blob/main/images/TreningWygrywania.png?raw=true)
+
+
+
+## 3. Interaction with buttons
+- the first button "ukryj nagłówek" hides the main welcome header, (and shows it again)
+- the second button "zmień kolor tła" changes the background color from white to blue 
+
+![buttonsInteraction](https://github.com/emilia82/homepage/blob/main/image/3-buttons-interaction.gif?raw=true)
+
+
+## 4. Interaction with image
+- if you click on image, it will change /hint in sub header
+
+![imageInteraction](https://github.com/emilia82/homepage/blob/main/image/4-image-change.gif?raw=true)
 Sample Landing Page with an invitation to a fitness challenge.
 This project uses an HTML script and CSS in the BEM convention, and
 also basic javascript functions. At the top of the page, there is a
