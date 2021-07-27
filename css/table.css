@@ -38,6 +38,11 @@
     font-weight: normal;
 } 
 
+.hidenTable {
+    display: none;
+
+}
+
 
 
 
